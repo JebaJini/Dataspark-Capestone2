@@ -28,16 +28,16 @@ ________________________________________
 Business Use Cases
 Key Areas of Analysis
 1.	Customer Analysis
-o	Understand demographic distribution (e.g., gender, age, location).
-o	Identify purchasing patterns and segment customers.
+     Understand demographic distribution (e.g., gender, age, location).
+     Identify purchasing patterns and segment customers.
 2.	Sales Analysis
-o	Analyze total sales trends, seasonality, and top-performing products.
-o	Evaluate store-level and currency-wise sales performance.
+     Analyze total sales trends, seasonality, and top-performing products.
+     Evaluate store-level and currency-wise sales performance.
 3.	Product Analysis
-o	Assess product popularity, profitability, and category-wise performance.
+      Assess product popularity, profitability, and category-wise performance.
 4.	Store Analysis
-o	Evaluate store performance based on size, sales, and location.
-o	Identify high-performing geographical regions.
+      Evaluate store performance based on size, sales, and location.
+      Identify high-performing geographical regions.
 ________________________________________
 Approach
 1. Data Cleaning and Preparation
